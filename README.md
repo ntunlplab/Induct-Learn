@@ -1,5 +1,5 @@
 # Induct-Learn
-Induct-Learn introduces a method to create Induct-Learn Prompts from LLMs, significantly enhancing smaller models' efficiency and performance with fewer resources.
+Induct-Learn introduces a method to create Induct-Learn Prompts from LLMs, significantly enhancing models' efficiency and performance with fewer resources.
 
 # Dataset
 ## BBH-Induct(BBHI) Dataset
