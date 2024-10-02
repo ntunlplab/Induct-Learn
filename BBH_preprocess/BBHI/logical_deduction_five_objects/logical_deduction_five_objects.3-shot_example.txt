@@ -1,0 +1,36 @@
+[Question]
+In a golf tournament, there were five golfers: Ana, Rob, Amy, Dan, and Joe. Rob finished below Dan. Joe finished below Ana. Joe finished above Amy. Dan finished below Amy.
+Options:
+(A) Ana finished second
+(B) Rob finished second
+(C) Amy finished second
+(D) Dan finished second
+(E) Joe finished second
+
+[Answer]
+(E)
+
+[Question]
+In a golf tournament, there were five golfers: Amy, Mel, Rob, Joe, and Ada. Joe finished second. Joe finished below Amy. Mel finished second-to-last. Ada finished last.
+Options:
+(A) Amy finished first
+(B) Mel finished first
+(C) Rob finished first
+(D) Joe finished first
+(E) Ada finished first
+
+[Answer]
+(A)
+
+[Question]
+In an antique car show, there are five vehicles: a convertible, a bus, a minivan, a truck, and a sedan. The convertible is newer than the truck. The minivan is the newest. The bus is the third-newest. The truck is newer than the sedan.
+Options:
+(A) The convertible is the newest
+(B) The bus is the newest
+(C) The minivan is the newest
+(D) The truck is the newest
+(E) The sedan is the newest
+
+[Answer]
+(C)
+

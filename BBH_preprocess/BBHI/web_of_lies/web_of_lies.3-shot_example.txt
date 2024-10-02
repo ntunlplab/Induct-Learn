@@ -1,0 +1,18 @@
+[Question]
+Question: Ryan tells the truth. Amberly says Ryan tells the truth. Kristian says Amberly lies. Bernita says Kristian lies. Alejandro says Bernita tells the truth. Does Alejandro tell the truth?
+
+[Answer]
+Yes
+
+[Question]
+Question: Ryan lies. Kristian says Ryan lies. Teressa says Kristian tells the truth. Amberly says Teressa tells the truth. Jamey says Amberly tells the truth. Does Jamey tell the truth?
+
+[Answer]
+Yes
+
+[Question]
+Question: Shalonda lies. Teressa says Shalonda tells the truth. Tamika says Teressa lies. Lorine says Tamika tells the truth. Jaymie says Lorine lies. Does Jaymie tell the truth?
+
+[Answer]
+No
+

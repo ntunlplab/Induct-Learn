@@ -1,0 +1,54 @@
+[Question]
+Here is a list of the related words: [process, service]. Here is a list of your options: [block, dream, youth, rifle, smile, serve]. What is the secret word?
+
+[Answer]
+[serve]
+
+[Question]
+Here is a list of the related words: [bureau, thorax]. Here is a list of your options: [motor, extra, house, plane, story, chest]. What is the secret word?
+
+[Answer]
+[chest]
+
+[Question]
+Here is a list of the related words: [bear, have]. Here is a list of your options: [model, voice, music, radio, empty, birth]. What is the secret word?
+
+[Answer]
+[birth]
+
+[Question]
+Here is a list of the related words: [account, level]. Here is a list of your options: [speak, value, model, sound, model, story]. What is the secret word?
+
+[Answer]
+[story]
+
+[Question]
+Here is a list of the related words: [area, study]. Here is a list of your options: [watch, color, extra, sleep, front, field]. What is the secret word?
+
+[Answer]
+[field]
+
+[Question]
+Here is a list of the related words: [white, abandon]. Here is a list of your options: [guess, union, staff, chair, child, empty]. What is the secret word?
+
+[Answer]
+[empty]
+
+[Question]
+Here is a list of the related words: [set, do]. Here is a list of your options: [truck, metal, blood, horse, death, dress]. What is the secret word?
+
+[Answer]
+[dress]
+
+[Question]
+Here is a list of the related words: [family, course]. Here is a list of your options: [wheel, press, begin, month, trade, class]. What is the secret word?
+
+[Answer]
+[class]
+
+[Question]
+Here is a list of the related words: [test, break]. Here is a list of your options: [drawn, theme, unity, index, order, check]. What is the secret word?
+
+[Answer]
+[check]
+

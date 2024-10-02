@@ -1,0 +1,18 @@
+[Question]
+not not True and True and not True is
+
+[Answer]
+False
+
+[Question]
+True and not True or False or True is
+
+[Answer]
+True
+
+[Question]
+not True and ( False or True ) is
+
+[Answer]
+False
+

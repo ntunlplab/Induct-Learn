@@ -1,0 +1,42 @@
+[Question]
+Text: 방탄소년단의 trivia 起 just dance 가사  내게 그 순간을 
+Choices: bts, maroon 5, ariana grande
+
+[Answer]
+bts
+
+[Question]
+Text: midnight shadows when finding love is a battle but daylight 
+Choices: ariana grande, lady gaga, billie eilish
+
+[Answer]
+ariana grande
+
+[Question]
+Text: nicki minaj uh we doing this for real right now 
+Choices: khalid, beyoncé, katy perry
+
+[Answer]
+beyoncé
+
+[Question]
+Text: beyoncé i've been watching for the signs took a trip 
+Choices: eminem, bts, beyoncé
+
+[Answer]
+beyoncé
+
+[Question]
+Text: nicki minaj he said he came from jamaica he owned 
+Choices: nicki minaj, drake, taylor swift
+
+[Answer]
+nicki minaj
+
+[Question]
+Text: woo i love the energy in here   mmm 
+Choices: billie eilish, justin bieber, nicki minaj
+
+[Answer]
+billie eilish
+

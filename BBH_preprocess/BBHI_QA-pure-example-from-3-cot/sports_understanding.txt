@@ -1,0 +1,17 @@
+[Question]
+"Bam Adebayo scored a reverse layup in the Western Conference Finals."
+
+[Answer]
+yes
+
+[Question]
+"Santi Cazorla scored a touchdown."
+
+[Answer]
+no
+
+[Question]
+"DeMar DeRozan was called for the goal tend."
+
+[Answer]
+yes

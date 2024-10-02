@@ -1,0 +1,90 @@
+[Question]
+A fruit stand sells three fruits: apples, pears, and plums. The pears are less expensive than the plums. The pears are more expensive than the apples.
+Options:
+(A) The apples are the second-most expensive
+(B) The pears are the second-most expensive
+(C) The plums are the second-most expensive
+
+[Answer]
+(B)
+
+[Question]
+On a branch, there are three birds: a hummingbird, a blue jay, and a raven. The blue jay is to the right of the hummingbird. The raven is the second from the left.
+Options:
+(A) The hummingbird is the rightmost
+(B) The blue jay is the rightmost
+(C) The raven is the rightmost
+
+[Answer]
+(B)
+
+[Question]
+In an antique car show, there are three vehicles: a tractor, a truck, and a minivan. The minivan is newer than the truck. The tractor is older than the truck.
+Options:
+(A) The tractor is the newest
+(B) The truck is the newest
+(C) The minivan is the newest
+
+[Answer]
+(C)
+
+[Question]
+On a shelf, there are three books: a blue book, an orange book, and a red book. The blue book is the rightmost. The orange book is the leftmost.
+Options:
+(A) The blue book is the leftmost
+(B) The orange book is the leftmost
+(C) The red book is the leftmost
+
+[Answer]
+(B)
+
+[Question]
+On a shelf, there are three books: a blue book, an orange book, and a green book. The green book is the leftmost. The orange book is to the left of the blue book.
+Options:
+(A) The blue book is the leftmost
+(B) The orange book is the leftmost
+(C) The green book is the leftmost
+
+[Answer]
+(C)
+
+[Question]
+On a shelf, there are three books: a gray book, an orange book, and a brown book. The orange book is the leftmost. The gray book is to the right of the brown book.
+Options:
+(A) The gray book is the second from the left
+(B) The orange book is the second from the left
+(C) The brown book is the second from the left
+
+[Answer]
+(C)
+
+[Question]
+On a branch, there are three birds: a blue jay, a quail, and a falcon. The falcon is to the right of the blue jay. The blue jay is to the right of the quail.
+Options:
+(A) The blue jay is the leftmost
+(B) The quail is the leftmost
+(C) The falcon is the leftmost
+
+[Answer]
+(B)
+
+[Question]
+In an antique car show, there are three vehicles: a bus, a sedan, and a truck. The truck is older than the bus. The bus is older than the sedan.
+Options:
+(A) The bus is the second-newest
+(B) The sedan is the second-newest
+(C) The truck is the second-newest
+
+[Answer]
+(A)
+
+[Question]
+On a branch, there are three birds: a robin, an owl, and a hawk. The robin is to the right of the hawk. The owl is the leftmost.
+Options:
+(A) The robin is the second from the left
+(B) The owl is the second from the left
+(C) The hawk is the second from the left
+
+[Answer]
+(C)
+

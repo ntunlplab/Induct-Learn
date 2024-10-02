@@ -1,0 +1,54 @@
+[Question]
+not not True and True and not True is
+
+[Answer]
+False
+
+[Question]
+True and not True or False or True is
+
+[Answer]
+True
+
+[Question]
+not True and ( False or True ) is
+
+[Answer]
+False
+
+[Question]
+not False and ( False or False ) is
+
+[Answer]
+False
+
+[Question]
+False or not True and True or True is
+
+[Answer]
+True
+
+[Question]
+False or not True or False or False is
+
+[Answer]
+False
+
+[Question]
+False or not ( False ) or True is
+
+[Answer]
+True
+
+[Question]
+not True or not False and not False is
+
+[Answer]
+True
+
+[Question]
+not False or not not False and False is
+
+[Answer]
+True
+

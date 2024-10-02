@@ -1,0 +1,36 @@
+[Question]
+9 2 5 = 90
+
+[Answer]
+9 * 2 * 5 = 90
+
+[Question]
+8 3 9 = -19
+
+[Answer]
+8 - 3 * 9 = -19
+
+[Question]
+2 1 8 = 10
+
+[Answer]
+2 + 1 * 8 = 10
+
+[Question]
+5 4 9 = 10
+
+[Answer]
+5 - 4 + 9 = 10
+
+[Question]
+3 10 3 = -10
+
+[Answer]
+3 - 10 - 3 = -10
+
+[Question]
+4 1 6 = -2
+
+[Answer]
+4 - 1 * 6 = -2
+

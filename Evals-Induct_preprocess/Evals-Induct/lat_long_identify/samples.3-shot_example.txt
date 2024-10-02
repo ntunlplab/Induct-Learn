@@ -1,0 +1,18 @@
+[Question]
+Latitude: 36.13877007401142, Longitude: 55.971048435762214
+
+[Answer]
+ایران
+
+[Question]
+Latitude: -20.133803588174885, Longitude: 140.21323736027472
+
+[Answer]
+Australia
+
+[Question]
+Latitude: 42.685236105597596, Longitude: -119.87369444437239
+
+[Answer]
+United States
+

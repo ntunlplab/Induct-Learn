@@ -1,0 +1,54 @@
+[Question]
+" CODE " is the Massachusetts Uniform Commercial Code .
+
+[Answer]
+[Massachusetts - LOCATION]
+
+[Question]
+( h ) Bank may debit any of Borrower ' s deposit accounts including Account Number _____________ for principal and interest payments or any amounts Borrower owes Bank .
+
+[Answer]
+[Bank - ORGANIZATION, Borrower - PERSON, Borrower - PERSON, Bank - ORGANIZATION]
+
+[Question]
+Just prior to dumping , the rail cars pass through a thaw shed which assists in unloading during freezing weather .
+
+[Answer]
+No entities found
+
+[Question]
+9
+
+[Answer]
+No entities found
+
+[Question]
+Section 6 . 3 Arbitrage .
+
+[Answer]
+No entities found
+
+[Question]
+Subject to the terms and conditions of this Agreement , the Company agrees to provide the Loan to the Borrower and the Borrower agrees to pledge part of its shares in the Company to the Company as a security for the Loan .
+
+[Answer]
+[Borrower - PERSON, Borrower - PERSON]
+
+[Question]
+12 . 7 SURVIVAL .
+
+[Answer]
+No entities found
+
+[Question]
+4 . 2 . 18 in the event that Lender purchases Borrower Equity Interest from Borrower in accordance with the provisions of the Exclusive Option Agreement , use such purchase price obtained thereby to repay the Loan to Lender ; and
+
+[Answer]
+[Lender - PERSON, Borrower - PERSON, Borrower - PERSON, Lender - PERSON]
+
+[Question]
+Bank ' s delay is not a waiver , election , or acquiescence .
+
+[Answer]
+[Bank - ORGANIZATION]
+

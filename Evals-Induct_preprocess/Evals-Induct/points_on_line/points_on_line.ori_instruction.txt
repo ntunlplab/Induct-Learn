@@ -1,0 +1,1 @@
+You will be provided with the end points of a line in 3 dimensions. Please calculate and return only the midpoint of this line, in this format: (x, y, z)

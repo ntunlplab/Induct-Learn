@@ -1,0 +1,18 @@
+[Question]
+I have a lettuce head, two yams, a cabbage, a stalk of celery, three heads of broccoli, a garlic, an onion, a carrot, a cauliflower, and a potato.
+
+[Answer]
+13
+
+[Question]
+I have a cauliflower, a stalk of celery, a cabbage, and a garlic.
+
+[Answer]
+4
+
+[Question]
+I have a car, and a toaster.
+
+[Answer]
+2
+

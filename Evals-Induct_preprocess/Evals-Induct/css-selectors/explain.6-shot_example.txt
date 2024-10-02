@@ -1,0 +1,36 @@
+[Question]
+input:read-only | select input elements that have the word read-only as value
+
+[Answer]
+False
+
+[Question]
+div, p | select all <div> elements and all <p> elements
+
+[Answer]
+True
+
+[Question]
+.class_name_a.class_name_b | select all elements with class_name_a or class_name_b within it's class name
+
+[Answer]
+False
+
+[Question]
+p:nth-child(2) | select all <p> elements that are the second child of it's parent
+
+[Answer]
+True
+
+[Question]
+[attribute_name^='attribute_value'] | select all elements with attribute attribute_name ending with attribute_value
+
+[Answer]
+False
+
+[Question]
+[attribute_name*='attribute_value'] | select all elements with attribute attribute_name equal to attribute_value
+
+[Answer]
+False
+

@@ -1,0 +1,101 @@
+[Question]
+Minority Report, Shrek, Catch Me If You Can, Aladdin:
+Options:
+(A) Monsters
+(B) Inc
+(C) Children of the Night
+(D) The Incredible Shrinking Man
+(E) Town & Country
+
+[Answer]
+Monsters, Inc
+
+[Question]
+Toy Story, The Mask, Batman, The Lion King:
+Options:
+(A) Exit Wounds
+(B) Punch-Drunk Love
+(C) Seeking Justice
+(D) Pretty Woman
+
+[Answer]
+(D)
+
+[Question]
+Raiders of the Lost Ark, The Shawshank Redemption, Inception, Pulp Fiction:
+Options:
+(A) Beyond the Poseidon Adventure
+(B) The Chorus
+(C) Forrest Gump
+(D) Scouts Guide to the Zombie Apocalypse
+
+[Answer]
+(C)
+
+[Question]
+Terminator 2 Judgment Day, Aladdin, The Shawshank Redemption, The Lion King:
+Options:
+(A) Iron Man & Hulk Heroes United
+(B) Schindler's List
+(C) Sherlock Jr
+(D) Lilya 4-Ever
+
+[Answer]
+(B)
+
+[Question]
+American Beauty, Star Wars Episode IV - A New Hope, Star Wars Episode V - The Empire Strikes Back, Forrest Gump:
+Options:
+(A) Cargo
+(B) Neon Bull
+(C) Jeffrey
+(D) The Silence of the Lambs
+
+[Answer]
+(D)
+
+[Question]
+The Fugitive, Schindler's List, Braveheart, The Mask:
+Options:
+(A) The Real McCoy
+(B) Batman
+(C) Master and Commander The Far Side of the World
+(D) Supercop
+
+[Answer]
+(B)
+
+[Question]
+Monty Python and the Holy Grail, The Silence of the Lambs, Star Wars Episode V - The Empire Strikes Back, Star Wars Episode IV - A New Hope:
+Options:
+(A) Child's Play 3
+(B) Some Kind of Wonderful
+(C) Goodfellas
+(D) Chocolat
+
+[Answer]
+(C)
+
+[Question]
+Goodfellas, Raiders of the Lost Ark, Star Wars Episode IV - A New Hope, The Silence of the Lambs:
+Options:
+(A) Monty Python and the Holy Grail
+(B) Weekend at Bernie's
+(C) American in Paris
+(D) An
+(E) Let It Snow
+
+[Answer]
+(A)
+
+[Question]
+Star Wars Episode IV - A New Hope, Superman, The Terminator, American Beauty:
+Options:
+(A) Opera
+(B) Austin Powers International Man of Mystery
+(C) Highlander The Search for Vengeance
+(D) Supergirl
+
+[Answer]
+(B)
+

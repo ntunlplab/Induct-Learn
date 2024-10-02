@@ -1,0 +1,36 @@
+[Question]
+select input elements with the readonly attribute specified
+
+[Answer]
+input:read-only
+
+[Question]
+select all <div> elements and all <p> elements
+
+[Answer]
+div, p
+
+[Question]
+select all elements with class_name_a and class_name_b within it's class name
+
+[Answer]
+.class_name_a.class_name_b
+
+[Question]
+select all <p> elements that are the second child of it's parent
+
+[Answer]
+p:nth-child(2)
+
+[Question]
+select all elements with attribute attribute_name starting with attribute_value
+
+[Answer]
+[attribute_name^='attribute_value']
+
+[Question]
+select all elements with attribute attribute_name containing attribute_value as a sub string
+
+[Answer]
+[attribute_name*='attribute_value']
+

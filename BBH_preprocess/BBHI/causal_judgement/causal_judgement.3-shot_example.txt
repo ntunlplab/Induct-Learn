@@ -1,0 +1,27 @@
+[Question]
+Louie and Claire are playing a game of basketball, and they made a bet with their friends who are watching on the sidelines. If either Louie makes a 3-point shot or Claire makes a 3-point shot during the game, then they'll win $100 and split it down the middle. Just when the game started, Louie immediately got the ball at the 3-point line. He looked to the basket, focused his shot, and made a 3-point shot right at the beginning of the game. Louie, Claire, and their friends continued playing, but as hard as they tried, Louie and Claire couldn't make another shot. And then right at the end of the game as the clock was winding down, Claire got the ball at the 3-point line. She looked to the basket, focused her shot, and made a 3- point shot right at the buzzer. Then the game ended. Because they would win $100 if either Louie made a 3-point shot or Claire made a 3- point shot, Louie and Claire won $100 and split it down the middle. Think about what could have been different in the story that you just read. Which event do you imagine happening differently: Louie making the 3-point shot right at the beginning of the game. Claire making the 3-point shot right at the buzzer. Did Louie and Claire win the $100 bet because Louie made the 3-point shot?
+Options:
+- Yes
+- No
+
+[Answer]
+Yes
+
+[Question]
+Tom has a huge garden and loves flowers. He employed two gardeners who take care of the plants on his 30 flower beds: Alex and Benni. Both can independently decide on their working hours and arrange who cares for which flower beds. Alex and Benni are very reliable and Tom is satisfied with their work. Nevertheless he wants to optimize the plant growth. Since Tom has read in a magazine that plants grow better when they are fertilized, he decides to let Alex and Benni fertilize his plants. The magazine recommends the use of the chemicals A X200R or B Y33R, since both are especially effective. However, Tom also read that it can damage plants when they are exposed to multiple different types of chemicals. Tom therefore decides that he only wants to use one fertilizer. He goes for A X200R. Tom instructs Alex and Benni to buy the chemical A X200R and to use only this fertilizer. Alex volunteers for buying several bottles of this chemical for Benni and himself. After a few weeks, Tom goes for a walk in his garden. He realizes that some of his plants are much prettier and bigger than before. However, he also realizes that some of his plants have lost their beautiful color and are dried up. That makes Tom very sad and reflective. He wonders whether the drying of his plants might have something to do with the fertilization. He wants to investigate this matter and talks to Alex and Benni. Alex tells him that he followed Tom's instructions and only bought and used the chemical A X200R. However, Benni tells him that he had used the chemical B Y33R instead. He still had some bottles of this chemical in stock at home and wanted to use them up. Tom realizes that the plants dried up in the flower beds on which both A X200R and B Y33R were applied by the gardeners. Did the fertilization by Benni cause the plant to dry out?
+Options:
+- Yes
+- No
+
+[Answer]
+Yes
+
+[Question]
+The CEO of a company is sitting in his office when his Vice President of R&D comes in and says, 'We are thinking of starting a new programme. It will help us increase profits, but it will also harm the environment.' The CEO responds that he doesn't care about harming the environment and just wants to make as much profit as possible. The programme is carried out, profits are made and the environment is harmed. Did the CEO intentionally harm the environment?
+Options:
+- Yes
+- No
+
+[Answer]
+Yes
+

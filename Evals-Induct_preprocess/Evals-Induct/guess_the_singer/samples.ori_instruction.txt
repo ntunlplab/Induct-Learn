@@ -1,0 +1,7 @@
+Identify the singer or group based on the first 10 words of the song. Choose from the 3 options provided, separated by commas. Your answer must match the correct option exactly and be lowercase, with no added text or punctuation.
+Example:
+Text: in the town where i was born lived a man who sailed to sea
+Choices: the rolling stones, the animals, the beatles
+
+Answer:
+the beatles

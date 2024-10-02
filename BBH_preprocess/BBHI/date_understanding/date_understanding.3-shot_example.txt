@@ -1,0 +1,39 @@
+[Question]
+2015 is coming in 36 hours. What is the date 24 hours later?
+Options:
+(A) 01/09/2015
+(B) 12/30/2059
+(C) 12/30/2014
+(D) 01/01/2015
+(E) 01/04/2015
+(F) 12/31/2014
+
+[Answer]
+(C)
+
+[Question]
+Yesterday was April 30, 2021. What is the date one week ago from today?
+Options:
+(A) 05/15/2021
+(B) 04/23/2021
+(C) 04/15/2021
+(D) 06/05/2021
+(E) 04/19/2021
+(F) 04/24/2021
+
+[Answer]
+(F)
+
+[Question]
+On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date 24 hours later?
+Options:
+(A) 06/19/2017
+(B) 07/17/2017
+(C) 06/20/2017
+(D) 06/18/2017
+(E) 06/15/2017
+(F) 07/10/2017
+
+[Answer]
+(A)
+

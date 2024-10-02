@@ -1,0 +1,29 @@
+[Question]
+Sentence: The chief told the counselor that they took the day off.
+Options:
+(A) The chief took the day off
+(B) The counselor took the day off
+(C) Ambiguous
+
+[Answer]
+(A)
+
+[Question]
+Sentence: The manager sent a message to the secretary, but he didn't reply yet.
+Options:
+(A) The secretary didn't reply yet
+(B) The manager didn't reply yet
+(C) Ambiguous
+
+[Answer]
+(A)
+
+[Question]
+Sentence: Bailey will plan to meet the director at his office
+Options:
+(A) It will be Bailey's office
+(B) It will be the director's office
+(C) Ambiguous
+
+[Answer]
+(C)

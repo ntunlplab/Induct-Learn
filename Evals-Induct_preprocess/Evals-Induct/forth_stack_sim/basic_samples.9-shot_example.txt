@@ -1,0 +1,54 @@
+[Question]
+53156 75221 91664 93084 tuck -rot
+
+[Answer]
+(stack 53156 75221 93084 93084 91664)
+
+[Question]
+10 2 3 nip *
+
+[Answer]
+(stack 30)
+
+[Question]
+1 2 3 rot swap
+
+[Answer]
+(stack 2 1 3)
+
+[Question]
+1 2 over
+
+[Answer]
+(stack 1 2 1)
+
+[Question]
+53156 75221 91664 rot over dup swap
+
+[Answer]
+(stack 75221 91664 53156 91664 91664)
+
+[Question]
+53156 75221 91664 93084 2over
+
+[Answer]
+(stack 53156 75221 91664 93084 53156 75221)
+
+[Question]
+1 2 3 4 2over + * + * +
+
+[Answer]
+(stack 31)
+
+[Question]
+4 5 2 + swap -
+
+[Answer]
+(stack 3)
+
+[Question]
+53156 75221 91664 93084 rot dup -rot
+
+[Answer]
+(stack 53156 91664 75221 93084 75221)
+

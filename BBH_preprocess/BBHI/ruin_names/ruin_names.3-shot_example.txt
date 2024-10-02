@@ -1,0 +1,33 @@
+[Question]
+'dave matthews band'?
+Options:
+(A) dave matthewg band
+(B) dave matthews hand
+(C) dave matthews xand
+(D) dave matthews basnd
+
+[Answer]
+(B)
+
+[Question]
+'the princess and the frog'?
+Options:
+(A) the princess aud the frog
+(B) the princess and the frig
+(C) tee princess and the frog
+(D) the princess and tge frog
+
+[Answer]
+(B)
+
+[Question]
+'the smashing pumpkins'?
+Options:
+(A) the smashing bumpkins
+(B) thez smashing pumpkins
+(C) the smashingq pumpkins
+(D) the rmashing pumpkins
+
+[Answer]
+(A)
+

@@ -1,0 +1,18 @@
+[Question]
+"CJ McCollum shot from the six yard line."
+
+[Answer]
+no
+
+[Question]
+"Zach LaVine  shot the puck."
+
+[Answer]
+no
+
+[Question]
+"David Silva took a throw in."
+
+[Answer]
+yes
+

@@ -1,0 +1,18 @@
+[Question]
+"Consumer research aims at understanding whether users of some products also tend to consume other ones, or not. The following argument seeks to clarify some such relations: To start with, every loyal buyer of Paul Mitchell soap is a loyal buyer of Natural Bar soap or, otherwise, neither a loyal buyer of Natural Bar soap nor an occasional purchaser of Cetaphil soap. Now, being an occasional purchaser of Cetaphil soap is necessary for being a loyal buyer of Paul Mitchell soap. In consequence, being a loyal buyer of Paul Mitchell soap is sufficient for being a loyal buyer of Natural Bar soap.
+
+[Answer]
+valid
+
+[Question]
+"It is not always easy to see which chemicals are contained in our consumer products. The following argument pertains to this question: To begin with, being an ingredient of Aquablush is sufficient for being an ingredient of NARS Duo Eyeshadow. Moreover, whatever is neither an ingredient of Stop and Stare nor an ingredient of A.D LIPSTICK CHIC is an ingredient of Lash Tinsel Mascara or an ingredient of Aquablush.finally, everything that is an ingredient of Lash Tinsel Mascara is an ingredient of NARS Duo Eyeshadow, too. Therefore, whatever is not an ingredient of NARS Duo Eyeshadow is however an ingredient of Stop and Stare or an ingredient of A.D LIPSTICK CHIC.
+
+[Answer]
+valid
+
+[Question]
+"Is Titanium oxide an ingredient of my washing power? Which chemicals does my perfume contain? It is really difficult to keep track of all chemicals one is regularly exposed to. The following argument seeks to clarify some such relations: Every ingredient of Sahara Saphire is both an ingredient of Pink Lotion Soap and an ingredient of Brushless Mascara. Cocamide is an ingredient of Pink Lotion Soap. Therefore, Cocamide is an ingredient of Sahara Saphire.
+
+[Answer]
+invalid
+

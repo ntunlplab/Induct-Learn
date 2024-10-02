@@ -1,0 +1,9 @@
+{"input":[{"role":"system","content":"Find the anagram of the input word (output is a single word)"},{"role":"user","content":"syluulfcssce"}],"ideal":"successfully"}
+{"input":[{"role":"system","content":"Find the anagram of the input word (output is a single word)"},{"role":"user","content":"loicleebtlcs"}],"ideal":"collectibles"}
+{"input":[{"role":"system","content":"Find the anagram of the input word (output is a single word)"},{"role":"user","content":"dseamvresettni"}],"ideal":"advertisements"}
+{"input":[{"role":"system","content":"Find the anagram of the input word (output is a single word)"},{"role":"user","content":"eittrtannemen"}],"ideal":"entertainment"}
+{"input":[{"role":"system","content":"Find the anagram of the input word (output is a single word)"},{"role":"user","content":"tsnaedoippdi"}],"ideal":"disappointed"}
+{"input":[{"role":"system","content":"Find the anagram of the input word (output is a single word)"},{"role":"user","content":"noenidtsrtmao"}],"ideal":"demonstration"}
+{"input":[{"role":"system","content":"Find the anagram of the input word (output is a single word)"},{"role":"user","content":"cotnnecainrto"}],"ideal":"concentration"}
+{"input":[{"role":"system","content":"Find the anagram of the input word (output is a single word)"},{"role":"user","content":"iioiilzctavn"}],"ideal":"civilization"}
+{"input":[{"role":"system","content":"Find the anagram of the input word (output is a single word)"},{"role":"user","content":"rtasepaycnrn"}],"ideal":"transparency"}

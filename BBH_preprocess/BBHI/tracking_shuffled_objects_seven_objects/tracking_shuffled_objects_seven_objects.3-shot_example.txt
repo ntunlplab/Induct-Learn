@@ -1,0 +1,45 @@
+[Question]
+Alice is dancing with Karl, Bob is dancing with Izzi, Claire is dancing with Melissa, Dave is dancing with Lola, Eve is dancing with Rodrigo, Fred is dancing with Helga, and Gertrude is dancing with Patrick.
+Throughout the song, the dancers often trade partners. First, Alice and Bob switch partners. Then, Eve and Gertrude switch partners. Then, Claire and Gertrude switch partners. Then, Gertrude and Bob switch partners. Then, Claire and Bob switch partners. Then, Fred and Gertrude switch partners. Finally, Claire and Dave switch partners. At the end of the dance, Claire is dancing with
+Options:
+(A) Karl
+(B) Izzi
+(C) Melissa
+(D) Lola
+(E) Rodrigo
+(F) Helga
+(G) Patrick
+
+[Answer]
+(D)
+
+[Question]
+Alice is dancing with Lola, Bob is dancing with Helga, Claire is dancing with Sam, Dave is dancing with Melissa, Eve is dancing with Jamie, Fred is dancing with Rodrigo, and Gertrude is dancing with Patrick.
+Throughout the song, the dancers often trade partners. First, Dave and Claire switch partners. Then, Gertrude and Claire switch partners. Then, Claire and Eve switch partners. Then, Gertrude and Eve switch partners. Then, Fred and Claire switch partners. Then, Bob and Alice switch partners. Finally, Eve and Claire switch partners. At the end of the dance, Gertrude is dancing with
+Options:
+(A) Lola
+(B) Helga
+(C) Sam
+(D) Melissa
+(E) Jamie
+(F) Rodrigo
+(G) Patrick
+
+[Answer]
+(G)
+
+[Question]
+Alice is dancing with Ophelia, Bob is dancing with Patrick, Claire is dancing with Karl, Dave is dancing with Rodrigo, Eve is dancing with Izzi, Fred is dancing with Helga, and Gertrude is dancing with Jamie.
+Throughout the song, the dancers often trade partners. First, Claire and Eve switch partners. Then, Gertrude and Alice switch partners. Then, Bob and Alice switch partners. Then, Eve and Gertrude switch partners. Then, Fred and Claire switch partners. Then, Fred and Bob switch partners. Finally, Dave and Fred switch partners. At the end of the dance, Fred is dancing with
+Options:
+(A) Ophelia
+(B) Patrick
+(C) Karl
+(D) Rodrigo
+(E) Izzi
+(F) Helga
+(G) Jamie
+
+[Answer]
+(D)
+

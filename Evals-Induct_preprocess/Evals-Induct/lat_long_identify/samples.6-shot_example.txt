@@ -1,0 +1,36 @@
+[Question]
+Latitude: 36.13877007401142, Longitude: 55.971048435762214
+
+[Answer]
+ایران
+
+[Question]
+Latitude: -20.133803588174885, Longitude: 140.21323736027472
+
+[Answer]
+Australia
+
+[Question]
+Latitude: 42.685236105597596, Longitude: -119.87369444437239
+
+[Answer]
+United States
+
+[Question]
+Latitude: -6.279311656726534, Longitude: -61.97546933375196
+
+[Answer]
+Brasil
+
+[Question]
+Latitude: -16.753021516438466, Longitude: -179.3641624207698
+
+[Answer]
+Viti
+
+[Question]
+Latitude: 58.74127403955367, Longitude: 113.75424506974724
+
+[Answer]
+Россия
+

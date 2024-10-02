@@ -1,0 +1,18 @@
+[Question]
+Player 1 Hole: (Jd, Kh), Player 2 Hole: (Ts, Td), Community: 8d, 4c, Jc
+
+[Answer]
+1
+
+[Question]
+Player 1 Hole: (As, 2s), Player 2 Hole: (7d, Jc), Community: 2c, 4d, 9h, Ts
+
+[Answer]
+1
+
+[Question]
+Player 1 Hole: (5h, 8d), Player 2 Hole: (As, Kc), Player 3 Hole: (Ks, 7s), Player 4 Hole: (8c, Qs), Player 5 Hole: (6h, Ts), Player 6 Hole: (Qd, Tc), Community: 5d, 4c, 2c
+
+[Answer]
+1
+

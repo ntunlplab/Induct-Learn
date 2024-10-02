@@ -1,0 +1,39 @@
+[Question]
+Alice has a red ball, Bob has a green ball, Claire has a brown ball, Dave has a black ball, and Eve has a orange ball.
+As the game progresses, pairs of players trade balls. First, Claire and Alice swap balls. Then, Dave and Eve swap balls. Then, Claire and Eve swap balls. Then, Bob and Claire swap balls. Finally, Alice and Claire swap balls. At the end of the game, Claire has the
+Options:
+(A) red ball
+(B) green ball
+(C) brown ball
+(D) black ball
+(E) orange ball
+
+[Answer]
+(C)
+
+[Question]
+Alice has a purple ball, Bob has a black ball, Claire has a red ball, Dave has a yellow ball, and Eve has a brown ball.
+As the game progresses, pairs of players trade balls. First, Alice and Dave swap balls. Then, Dave and Eve swap balls. Then, Bob and Dave swap balls. Then, Dave and Claire swap balls. Finally, Eve and Claire swap balls. At the end of the game, Alice has the
+Options:
+(A) purple ball
+(B) black ball
+(C) red ball
+(D) yellow ball
+(E) brown ball
+
+[Answer]
+(D)
+
+[Question]
+Alice is dancing with Helga, Bob is dancing with Jamie, Claire is dancing with Ophelia, Dave is dancing with Karl, and Eve is dancing with Rodrigo.
+Throughout the song, the dancers often trade partners. First, Eve and Bob switch partners. Then, Dave and Claire switch partners. Then, Claire and Bob switch partners. Then, Dave and Alice switch partners. Finally, Claire and Eve switch partners. At the end of the dance, Claire is dancing with
+Options:
+(A) Helga
+(B) Jamie
+(C) Ophelia
+(D) Karl
+(E) Rodrigo
+
+[Answer]
+(B)
+

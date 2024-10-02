@@ -1,0 +1,54 @@
+[Question]
+Here is a list of the related words: [sound, part, representative, articulation, interpreter]. Here is a list of your options: [price, train, touch, light, phone, voice]. What is the secret word?
+
+[Answer]
+[voice]
+
+[Question]
+Here is a list of the related words: [solicit, homage, woo, romance, tribunal]. Here is a list of your options: [trial, shook, write, field, point, court]. What is the secret word?
+
+[Answer]
+[court]
+
+[Question]
+Here is a list of the related words: [line, stock, rake, descent, rip]. Here is a list of your options: [sweet, worry, index, check, glass, blood]. What is the secret word?
+
+[Answer]
+[blood]
+
+[Question]
+Here is a list of the related words: [effect, take, number, cut, matter]. Here is a list of your options: [begin, court, sense, brown, check, issue]. What is the secret word?
+
+[Answer]
+[issue]
+
+[Question]
+Here is a list of the related words: [buck, h, smack, knight, junk]. Here is a list of your options: [story, power, staff, offer, class, horse]. What is the secret word?
+
+[Answer]
+[horse]
+
+[Question]
+Here is a list of the related words: [shop, rat, pot, weed, dope]. Here is a list of your options: [court, motor, theme, frame, model, grass]. What is the secret word?
+
+[Answer]
+[grass]
+
+[Question]
+Here is a list of the related words: [delineate, tense, taut, tired, haggard]. Here is a list of your options: [force, theme, water, basis, color, drawn]. What is the secret word?
+
+[Answer]
+[drawn]
+
+[Question]
+Here is a list of the related words: [colour, semblance, gloss, distort, emblazon]. Here is a list of your options: [study, round, scale, depth, speak, color]. What is the secret word?
+
+[Answer]
+[color]
+
+[Question]
+Here is a list of the related words: [care, mind, interest, dwell, concern]. Here is a list of your options: [light, exist, begin, extra, speak, worry]. What is the secret word?
+
+[Answer]
+[worry]
+

@@ -1,0 +1,36 @@
+[Question]
+EXERCISE: If you take 5 steps forward, then take 4 steps backward, then turn 90 degrees left, then take 4 steps backward, then take 3 steps backward, then take 1 step forward, then take 1 step backward, then take 4 steps backward, then take 4 steps backward, then take 2 steps backward, what coordinate are you at?
+
+[Answer]
+(17, 1)
+
+[Question]
+EXERCISE: If you take 1 step backward, then take 2 steps forward, then take 5 steps backward, then turn 90 degrees left, what coordinate are you at?
+
+[Answer]
+(0, -4)
+
+[Question]
+EXERCISE: If you take 1 step forward, then take 1 step backward, what coordinate are you at?
+
+[Answer]
+(0, 0)
+
+[Question]
+EXERCISE: If you take 4 steps backward, then turn 90 degrees right, then take 2 steps forward, then take 5 steps backward, then take 4 steps forward, then take 1 step forward, then turn 90 degrees right, then turn 90 degrees left, then take 5 steps backward, then turn 90 degrees right, then turn 90 degrees right, then turn 90 degrees right, what coordinate are you at?
+
+[Answer]
+(-3, -4)
+
+[Question]
+EXERCISE: If you turn 90 degrees left, then turn 90 degrees left, then take 4 steps forward, then take 1 step forward, then turn 90 degrees right, then turn 90 degrees right, what coordinate are you at?
+
+[Answer]
+(0, -5)
+
+[Question]
+EXERCISE: If you turn 90 degrees left, then turn 90 degrees right, then take 1 step backward, then take 4 steps forward, then take 3 steps backward, then take 5 steps backward, what coordinate are you at?
+
+[Answer]
+(0, -5)
+

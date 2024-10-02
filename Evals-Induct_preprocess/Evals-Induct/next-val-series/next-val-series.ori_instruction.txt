@@ -1,0 +1,1 @@
+Given a series of numbers, predict the next number in the sequence. The answer should contain only one number, which will be the predicted number.

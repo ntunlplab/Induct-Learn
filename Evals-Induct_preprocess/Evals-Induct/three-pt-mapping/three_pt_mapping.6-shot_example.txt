@@ -1,0 +1,78 @@
+[Question]
+ tVQ 485
+TVq 20
+TVQ 15
+tVq 6
+tvQ 18
+Tvq 477
+TvQ 6
+tvq 13 
+
+[Answer]
+ q 
+
+[Question]
+RYX 1
+ryX 76
+RyX 59
+ryx 3
+RYx 86
+rYx 58
+rYX 10
+Ryx 60
+
+[Answer]
+x
+
+[Question]
+ZIF 5
+ziF 89
+ZiF 23
+zif 7
+ZIf 93
+zIf 22
+zIF 14
+Zif 18
+
+[Answer]
+f
+
+[Question]
+ vPM 504
+VPm 39
+VPM 34
+vPm 25
+vpM 37
+Vpm 496
+VpM 25
+vpm 32 
+
+[Answer]
+ m 
+
+[Question]
+ dJR 543
+DJr 78
+DJR 73
+dJr 64
+djR 76
+Djr 535
+DjR 64
+djr 71 
+
+[Answer]
+ r 
+
+[Question]
+ sIV 604
+SIv 139
+SIV 134
+sIv 125
+siV 137
+Siv 596
+SiV 125
+siv 132 
+
+[Answer]
+ v 
+

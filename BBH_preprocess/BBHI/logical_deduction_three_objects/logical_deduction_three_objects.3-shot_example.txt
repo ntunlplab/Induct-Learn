@@ -1,0 +1,30 @@
+[Question]
+A fruit stand sells three fruits: apples, pears, and plums. The pears are less expensive than the plums. The pears are more expensive than the apples.
+Options:
+(A) The apples are the second-most expensive
+(B) The pears are the second-most expensive
+(C) The plums are the second-most expensive
+
+[Answer]
+(B)
+
+[Question]
+On a branch, there are three birds: a hummingbird, a blue jay, and a raven. The blue jay is to the right of the hummingbird. The raven is the second from the left.
+Options:
+(A) The hummingbird is the rightmost
+(B) The blue jay is the rightmost
+(C) The raven is the rightmost
+
+[Answer]
+(B)
+
+[Question]
+In an antique car show, there are three vehicles: a tractor, a truck, and a minivan. The minivan is newer than the truck. The tractor is older than the truck.
+Options:
+(A) The tractor is the newest
+(B) The truck is the newest
+(C) The minivan is the newest
+
+[Answer]
+(C)
+

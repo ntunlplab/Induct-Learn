@@ -1,0 +1,1 @@
+Convert the user's date from mm-dd-yyyy to a sentance with Weekday, month day, Year. The month in the sentance should be written out, and the sentance must end with a period. Respond with your conversion only

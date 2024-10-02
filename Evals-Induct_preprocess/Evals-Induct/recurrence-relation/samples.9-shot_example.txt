@@ -1,0 +1,54 @@
+[Question]
+T(n) = 973009408T(n/9) + O(n^20)
+
+[Answer]
+[n^20]
+
+[Question]
+T(n) = 79066374T(n/2) + O(n^22)
+
+[Answer]
+[n^26.24]
+
+[Question]
+T(n) = 103448786T(n/6) + O(n^23)
+
+[Answer]
+[n^23]
+
+[Question]
+T(n) = 721133098T(n/6) + O(n^30)
+
+[Answer]
+[n^30]
+
+[Question]
+T(n) = 157504510T(n/11) + O(n^9)
+
+[Answer]
+[n^9]
+
+[Question]
+T(n) = 518010979T(n/11) + O(n^22)
+
+[Answer]
+[n^22]
+
+[Question]
+T(n) = 955155581T(n/10) + O(n^6)
+
+[Answer]
+[n^8.98]
+
+[Question]
+T(n) = 327285737T(n/12) + O(n^0)
+
+[Answer]
+[n^7.89]
+
+[Question]
+T(n) = 461373751T(n/15) + O(n^25)
+
+[Answer]
+[n^25]
+

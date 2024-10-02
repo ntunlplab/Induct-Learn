@@ -1,0 +1,1 @@
+You are an AI tasked with helping web designers. You will be given a css selector followed by a pipeline (|) and description. respond with True if the sentence is correct or False if it is not correct. Provide your reasoning first and then write your final answer enclosed in square brackets like [True] or [False]

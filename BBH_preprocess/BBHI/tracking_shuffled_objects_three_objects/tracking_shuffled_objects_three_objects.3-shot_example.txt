@@ -1,0 +1,33 @@
+[Question]
+Alice has a purple ball, Bob has a red ball, and Claire has a green ball.
+As the game progresses, pairs of players trade balls. First, Alice and Claire swap balls. Then, Alice and Bob swap balls. Finally, Claire and Alice swap balls. At the end of the game, Alice has the
+Options:
+(A) purple ball
+(B) red ball
+(C) green ball
+
+[Answer]
+(A)
+
+[Question]
+Alice gets Frankenstein, Bob gets The Great Gatsby, and Claire gets Ulysses.
+As the semester proceeds, they start trading around the new books. First, Alice and Bob swap books. Then, Claire and Bob swap books. Finally, Bob and Alice swap books. At the end of the semester, Claire has
+Options:
+(A) Frankenstein
+(B) The Great Gatsby
+(C) Ulysses
+
+[Answer]
+(A)
+
+[Question]
+Alice is dancing with Izzi, Bob is dancing with Melissa, and Claire is dancing with Lola.
+Throughout the song, the dancers often trade partners. First, Claire and Alice switch partners. Then, Bob and Claire switch partners. Finally, Alice and Bob switch partners. At the end of the dance, Alice is dancing with
+Options:
+(A) Izzi
+(B) Melissa
+(C) Lola
+
+[Answer]
+(A)
+

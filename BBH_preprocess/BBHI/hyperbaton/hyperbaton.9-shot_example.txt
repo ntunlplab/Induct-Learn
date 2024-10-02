@@ -1,0 +1,72 @@
+[Question]
+Options:
+(A) little prismlike Russian nice knife
+(B) nice little prismlike Russian knife
+
+[Answer]
+(B)
+
+[Question]
+Options:
+(A) enormous brand-new German drinking motorcycle
+(B) brand-new drinking German enormous motorcycle
+
+[Answer]
+(A)
+
+[Question]
+Options:
+(A) tan silly old-fashioned dog
+(B) silly old-fashioned tan dog
+
+[Answer]
+(B)
+
+[Question]
+Options:
+(A) lovely massive Russian baby
+(B) massive lovely Russian baby
+
+[Answer]
+(A)
+
+[Question]
+Options:
+(A) Turkish square terrible chair
+(B) terrible square Turkish chair
+
+[Answer]
+(B)
+
+[Question]
+Options:
+(A) fiberglass large tan car
+(B) large tan fiberglass car
+
+[Answer]
+(B)
+
+[Question]
+Options:
+(A) exercise old-fashioned steel midsize Congolese match
+(B) midsize old-fashioned Congolese steel exercise match
+
+[Answer]
+(B)
+
+[Question]
+Options:
+(A) silver new repulsive exercise green Pakistani computer
+(B) repulsive new green Pakistani silver exercise computer
+
+[Answer]
+(B)
+
+[Question]
+Options:
+(A) midsize circular fiberglass knife
+(B) circular fiberglass midsize knife
+
+[Answer]
+(A)
+

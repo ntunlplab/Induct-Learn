@@ -1,0 +1,99 @@
+[Question]
+'dave matthews band'?
+Options:
+(A) dave matthewg band
+(B) dave matthews hand
+(C) dave matthews xand
+(D) dave matthews basnd
+
+[Answer]
+(B)
+
+[Question]
+'the princess and the frog'?
+Options:
+(A) the princess aud the frog
+(B) the princess and the frig
+(C) tee princess and the frog
+(D) the princess and tge frog
+
+[Answer]
+(B)
+
+[Question]
+'the smashing pumpkins'?
+Options:
+(A) the smashing bumpkins
+(B) thez smashing pumpkins
+(C) the smashingq pumpkins
+(D) the rmashing pumpkins
+
+[Answer]
+(A)
+
+[Question]
+'blue'?
+Options:
+(A) blfue
+(B) glue
+(C) lue
+(D) bvlue
+
+[Answer]
+(B)
+
+[Question]
+'bridge of spies'?
+Options:
+(A) bridge of spivs
+(B) bridges of spies
+(C) brikge of spies
+(D) bridge off spies
+
+[Answer]
+(A)
+
+[Question]
+'die another day'?
+Options:
+(A) vie another day
+(B) die another iday
+(C) dive another day
+(D) pie another day
+
+[Answer]
+(D)
+
+[Question]
+'bad religion'?
+Options:
+(A) bad religvon
+(B) bdd religion
+(C) bad religion
+(D) brad religion
+
+[Answer]
+(D)
+
+[Question]
+'fall out boy'?
+Options:
+(A) faqll out boy
+(B) fall out bot
+(C) falbl out boy
+(D) fall outt boy
+
+[Answer]
+(B)
+
+[Question]
+'the bay city rollers'?
+Options:
+(A) the baby city rollers
+(B) the bay city rolleyrs
+(C) tce bay city rollers
+(D) the bay ciby rollers
+
+[Answer]
+(A)
+

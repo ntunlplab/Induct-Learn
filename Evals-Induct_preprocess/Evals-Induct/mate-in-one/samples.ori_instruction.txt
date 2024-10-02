@@ -1,0 +1,1 @@
+You'll be prompted with chess board position. Mate in one is possible, write the move. Just give the move using short algebraic notation with all letters in lowercase. Example: re8, qb2. Just give the move, not a word more

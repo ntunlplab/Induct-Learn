@@ -1,0 +1,18 @@
+[Question]
+9 2 5 = 90
+
+[Answer]
+9 * 2 * 5 = 90
+
+[Question]
+8 3 9 = -19
+
+[Answer]
+8 - 3 * 9 = -19
+
+[Question]
+2 1 8 = 10
+
+[Answer]
+2 + 1 * 8 = 10
+

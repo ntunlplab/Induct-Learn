@@ -1,0 +1,36 @@
+[Question]
+Singapore, Syria, Benin, United Kingdom, Burkina Faso, Trinidad and Tobago, Liechtenstein, Guam, Fiji Islands, Iran
+
+[Answer]
+Iran
+
+[Question]
+Moldova, Rwanda, Haiti, Belgium, Solomon Islands, Burundi, Armenia, Lesotho, Albania, Equatorial Guinea
+
+[Answer]
+Moldova
+
+[Question]
+Tanzania, Venezuela, Nigeria, Zambia, Namibia, Turkey, Mozambique, Chile, Pakistan, Egypt
+
+[Answer]
+Egypt
+
+[Question]
+British Virgin Islands, Niger, Burkina Faso, Bhutan, Australia, Nigeria, Hong Kong, Montserrat, Czech Republic, Netherlands Antilles
+
+[Answer]
+Australia
+
+[Question]
+Kyrgyzstan, Philippines, Panama, Suriname, New Caledonia, Grenada, Netherlands Antilles, Western Sahara, Somalia, China
+
+[Answer]
+China
+
+[Question]
+Qatar, Belize, Nicaragua, Solomon Islands, Djibouti, Gabon, Bhutan, Latvia, United Kingdom, British Indian Ocean Territory
+
+[Answer]
+Gabon
+

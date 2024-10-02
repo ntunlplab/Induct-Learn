@@ -1,0 +1,17 @@
+[Question]
+Q: Is the following sentence plausible? "Bam Adebayo scored a reverse layup in the Western Conference Finals."
+
+[Answer]
+yes
+
+[Question]
+Q: Is the following sentence plausible? "Santi Cazorla scored a touchdown."
+
+[Answer]
+no
+
+[Question]
+Q: Is the following sentence plausible? "DeMar DeRozan was called for the goal tend."
+
+[Answer]
+yes

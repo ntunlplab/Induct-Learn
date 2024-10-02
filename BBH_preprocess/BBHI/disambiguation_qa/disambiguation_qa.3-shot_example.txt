@@ -1,0 +1,30 @@
+[Question]
+Sentence: The driver yelled at the tailor after she broke a window.
+Options:
+(A) The driver broke a window
+(B) The tailor broke a window
+(C) Ambiguous
+
+[Answer]
+(C)
+
+[Question]
+Sentence: The undergraduate applied to work with the scientist because he needed a lab assistant.
+Options:
+(A) The undergraduate needed an assistant
+(B) The scientist needed an assistant
+(C) Ambiguous
+
+[Answer]
+(B)
+
+[Question]
+Sentence: The investigator wanted to interview the witness in person, but she was too late.
+Options:
+(A) The investigator was too late
+(B) The witness was too late
+(C) Ambiguous
+
+[Answer]
+(C)
+

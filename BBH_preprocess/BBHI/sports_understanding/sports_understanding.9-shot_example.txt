@@ -1,0 +1,54 @@
+[Question]
+"CJ McCollum shot from the six yard line."
+
+[Answer]
+no
+
+[Question]
+"Zach LaVine  shot the puck."
+
+[Answer]
+no
+
+[Question]
+"David Silva took a throw in."
+
+[Answer]
+yes
+
+[Question]
+"Gabriel Landeskog launched the desperation heave."
+
+[Answer]
+no
+
+[Question]
+"Mike Hoffman launched the half court shot in the Western Conference Finals."
+
+[Answer]
+no
+
+[Question]
+"Marouane Fellaini scored in extra time."
+
+[Answer]
+yes
+
+[Question]
+"Brandin Cooks went for it on fourth down."
+
+[Answer]
+yes
+
+[Question]
+"Aleksander Barkov passed the puck."
+
+[Answer]
+yes
+
+[Question]
+"Mitchell Robinson airballed the shot."
+
+[Answer]
+yes
+

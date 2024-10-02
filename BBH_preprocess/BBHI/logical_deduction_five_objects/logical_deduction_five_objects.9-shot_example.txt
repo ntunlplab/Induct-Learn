@@ -1,0 +1,108 @@
+[Question]
+In a golf tournament, there were five golfers: Ana, Rob, Amy, Dan, and Joe. Rob finished below Dan. Joe finished below Ana. Joe finished above Amy. Dan finished below Amy.
+Options:
+(A) Ana finished second
+(B) Rob finished second
+(C) Amy finished second
+(D) Dan finished second
+(E) Joe finished second
+
+[Answer]
+(E)
+
+[Question]
+In a golf tournament, there were five golfers: Amy, Mel, Rob, Joe, and Ada. Joe finished second. Joe finished below Amy. Mel finished second-to-last. Ada finished last.
+Options:
+(A) Amy finished first
+(B) Mel finished first
+(C) Rob finished first
+(D) Joe finished first
+(E) Ada finished first
+
+[Answer]
+(A)
+
+[Question]
+In an antique car show, there are five vehicles: a convertible, a bus, a minivan, a truck, and a sedan. The convertible is newer than the truck. The minivan is the newest. The bus is the third-newest. The truck is newer than the sedan.
+Options:
+(A) The convertible is the newest
+(B) The bus is the newest
+(C) The minivan is the newest
+(D) The truck is the newest
+(E) The sedan is the newest
+
+[Answer]
+(C)
+
+[Question]
+On a branch, there are five birds: an owl, a hawk, a robin, a crow, and a raven. The hawk is to the left of the owl. The raven is the second from the right. The robin is to the left of the raven. The owl is the second from the left.
+Options:
+(A) The owl is the second from the left
+(B) The hawk is the second from the left
+(C) The robin is the second from the left
+(D) The crow is the second from the left
+(E) The raven is the second from the left
+
+[Answer]
+(A)
+
+[Question]
+On a shelf, there are five books: a brown book, a yellow book, an orange book, a green book, and a gray book. The green book is to the left of the gray book. The brown book is the third from the left. The gray book is the second from the right. The yellow book is to the left of the green book.
+Options:
+(A) The brown book is the rightmost
+(B) The yellow book is the rightmost
+(C) The orange book is the rightmost
+(D) The green book is the rightmost
+(E) The gray book is the rightmost
+
+[Answer]
+(C)
+
+[Question]
+On a shelf, there are five books: a green book, a blue book, a white book, a purple book, and a yellow book. The blue book is to the right of the yellow book. The white book is to the left of the yellow book. The blue book is the second from the right. The purple book is the second from the left.
+Options:
+(A) The green book is the third from the left
+(B) The blue book is the third from the left
+(C) The white book is the third from the left
+(D) The purple book is the third from the left
+(E) The yellow book is the third from the left
+
+[Answer]
+(E)
+
+[Question]
+On a branch, there are five birds: an owl, a hummingbird, a crow, a hawk, and a robin. The hawk is to the right of the owl. The hummingbird is to the right of the hawk. The crow is the second from the right. The robin is the second from the left.
+Options:
+(A) The owl is the second from the left
+(B) The hummingbird is the second from the left
+(C) The crow is the second from the left
+(D) The hawk is the second from the left
+(E) The robin is the second from the left
+
+[Answer]
+(E)
+
+[Question]
+On a shelf, there are five books: a green book, a blue book, a brown book, a gray book, and a red book. The green book is to the left of the brown book. The gray book is to the left of the blue book. The green book is to the right of the blue book. The red book is the leftmost.
+Options:
+(A) The green book is the second from the left
+(B) The blue book is the second from the left
+(C) The brown book is the second from the left
+(D) The gray book is the second from the left
+(E) The red book is the second from the left
+
+[Answer]
+(D)
+
+[Question]
+On a shelf, there are five books: a blue book, a purple book, a yellow book, a black book, and a green book. The purple book is the third from the left. The yellow book is to the left of the black book. The green book is to the left of the purple book. The blue book is to the left of the green book.
+Options:
+(A) The blue book is the third from the left
+(B) The purple book is the third from the left
+(C) The yellow book is the third from the left
+(D) The black book is the third from the left
+(E) The green book is the third from the left
+
+[Answer]
+(B)
+

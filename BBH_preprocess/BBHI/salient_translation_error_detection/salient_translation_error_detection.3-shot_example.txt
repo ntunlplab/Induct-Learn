@@ -1,0 +1,45 @@
+[Question]
+Source: Liste der Naturschutzgebiete im Landkreis Augsburg
+Translation: List of manure reserves in Augsburg
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+[Answer]
+(F)
+
+[Question]
+Source: Unter dem Namen Espenlaub entstanden zwischen 1928 und 1953 einzelne innovative, zum Teil auch sehr skurrile Automobile.
+Translation: Between 1928 and 1953, individual innovative, sometimes very quirky automobiles were created under the name Lebenshraum.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+[Answer]
+(D)
+
+[Question]
+Source: Diese Liste beinhaltet alle in der Wikipedia gelisteten Wappen des Landkreis Konstanz in Baden-Württemberg, inklusive historischer Wappen.
+Translation: This list includes all the coats of arms of the district of Constance in Baden-Württemberg listed in Wikipedia.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+[Answer]
+(E)
+

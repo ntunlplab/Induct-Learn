@@ -1,0 +1,54 @@
+[Question]
+Here is a list of the related words: [race, rush, velocity]. Here is a list of your options: [thing, grass, range, empty, thing, speed]. What is the secret word?
+
+[Answer]
+[speed]
+
+[Question]
+Here is a list of the related words: [boy, girl, baby]. Here is a list of your options: [month, mouth, rifle, wheel, write, child]. What is the secret word?
+
+[Answer]
+[child]
+
+[Question]
+Here is a list of the related words: [bear, have, deliver]. Here is a list of your options: [table, basis, month, dance, watch, birth]. What is the secret word?
+
+[Answer]
+[birth]
+
+[Question]
+Here is a list of the related words: [deal, craft, switch]. Here is a list of your options: [theme, plant, exist, clean, space, trade]. What is the secret word?
+
+[Answer]
+[trade]
+
+[Question]
+Here is a list of the related words: [off, away, forward]. Here is a list of your options: [chair, speak, sweet, union, quite, forth]. What is the secret word?
+
+[Answer]
+[forth]
+
+[Question]
+Here is a list of the related words: [grace, privilege, honor]. Here is a list of your options: [begin, floor, space, sweet, speak, favor]. What is the secret word?
+
+[Answer]
+[favor]
+
+[Question]
+Here is a list of the related words: [white, abandon, open]. Here is a list of your options: [visit, cause, house, exist, guess, empty]. What is the secret word?
+
+[Answer]
+[empty]
+
+[Question]
+Here is a list of the related words: [light, clear, white]. Here is a list of your options: [trade, theme, dream, serve, empty, clean]. What is the secret word?
+
+[Answer]
+[clean]
+
+[Question]
+Here is a list of the related words: [bureau, thorax, dresser]. Here is a list of your options: [theme, rifle, union, basis, order, chest]. What is the secret word?
+
+[Answer]
+[chest]
+

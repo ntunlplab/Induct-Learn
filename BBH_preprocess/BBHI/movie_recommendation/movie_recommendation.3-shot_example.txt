@@ -1,0 +1,34 @@
+[Question]
+Minority Report, Shrek, Catch Me If You Can, Aladdin:
+Options:
+(A) Monsters
+(B) Inc
+(C) Children of the Night
+(D) The Incredible Shrinking Man
+(E) Town & Country
+
+[Answer]
+Monsters, Inc
+
+[Question]
+Toy Story, The Mask, Batman, The Lion King:
+Options:
+(A) Exit Wounds
+(B) Punch-Drunk Love
+(C) Seeking Justice
+(D) Pretty Woman
+
+[Answer]
+(D)
+
+[Question]
+Raiders of the Lost Ark, The Shawshank Redemption, Inception, Pulp Fiction:
+Options:
+(A) Beyond the Poseidon Adventure
+(B) The Chorus
+(C) Forrest Gump
+(D) Scouts Guide to the Zombie Apocalypse
+
+[Answer]
+(C)
+

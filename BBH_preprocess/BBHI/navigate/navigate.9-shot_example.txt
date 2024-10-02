@@ -1,0 +1,81 @@
+[Question]
+Take 1 step. Take 7 steps. Take 1 step.
+Options:
+- Yes
+- No
+
+[Answer]
+No
+
+[Question]
+Turn left. Take 5 steps. Turn around. Turn right.
+Options:
+- Yes
+- No
+
+[Answer]
+No
+
+[Question]
+Always face forward. Take 6 steps right. Take 1 step forward. Take 10 steps left. Take 8 steps forward. Take 9 steps backward. Take 4 steps right.
+Options:
+- Yes
+- No
+
+[Answer]
+Yes
+
+[Question]
+Always face forward. Take 8 steps left. Take 9 steps left. Take 8 steps right. Take 8 steps left. Take 3 steps right.
+Options:
+- Yes
+- No
+
+[Answer]
+No
+
+[Question]
+Always face forward. Take 8 steps backward. Take 2 steps backward. Take 10 steps forward.
+Options:
+- Yes
+- No
+
+[Answer]
+Yes
+
+[Question]
+Always face forward. Take 7 steps left. Take 8 steps left. Take 1 step left. Take 9 steps left. Take 10 steps forward. Take 5 steps forward.
+Options:
+- Yes
+- No
+
+[Answer]
+No
+
+[Question]
+Take 4 steps. Take 2 steps. Take 7 steps.
+Options:
+- Yes
+- No
+
+[Answer]
+No
+
+[Question]
+Always face forward. Take 7 steps forward. Take 4 steps backward. Take 4 steps backward. Take 5 steps forward. Take 7 steps forward. Take 10 steps backward. Take 1 step backward.
+Options:
+- Yes
+- No
+
+[Answer]
+Yes
+
+[Question]
+Turn right. Take 5 steps. Take 6 steps. Take 4 steps. Take 1 step. Turn around. Take 6 steps. Take 10 steps. Turn around.
+Options:
+- Yes
+- No
+
+[Answer]
+Yes
+

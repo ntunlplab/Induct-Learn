@@ -1,0 +1,18 @@
+[Question]
+white king at c3, queen at b7. Black king at a2. White to move
+
+[Answer]
+qb2
+
+[Question]
+white king at d5, rooks at f8 and g2. Black king at h4. White to move
+
+[Answer]
+rh8
+
+[Question]
+white king at c7, rook at b3. Black king at a7. White to move
+
+[Answer]
+ra3
+

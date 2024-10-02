@@ -1,0 +1,117 @@
+[Question]
+Alice has a red ball, Bob has a green ball, Claire has a brown ball, Dave has a black ball, and Eve has a orange ball.
+As the game progresses, pairs of players trade balls. First, Claire and Alice swap balls. Then, Dave and Eve swap balls. Then, Claire and Eve swap balls. Then, Bob and Claire swap balls. Finally, Alice and Claire swap balls. At the end of the game, Claire has the
+Options:
+(A) red ball
+(B) green ball
+(C) brown ball
+(D) black ball
+(E) orange ball
+
+[Answer]
+(C)
+
+[Question]
+Alice has a purple ball, Bob has a black ball, Claire has a red ball, Dave has a yellow ball, and Eve has a brown ball.
+As the game progresses, pairs of players trade balls. First, Alice and Dave swap balls. Then, Dave and Eve swap balls. Then, Bob and Dave swap balls. Then, Dave and Claire swap balls. Finally, Eve and Claire swap balls. At the end of the game, Alice has the
+Options:
+(A) purple ball
+(B) black ball
+(C) red ball
+(D) yellow ball
+(E) brown ball
+
+[Answer]
+(D)
+
+[Question]
+Alice is dancing with Helga, Bob is dancing with Jamie, Claire is dancing with Ophelia, Dave is dancing with Karl, and Eve is dancing with Rodrigo.
+Throughout the song, the dancers often trade partners. First, Eve and Bob switch partners. Then, Dave and Claire switch partners. Then, Claire and Bob switch partners. Then, Dave and Alice switch partners. Finally, Claire and Eve switch partners. At the end of the dance, Claire is dancing with
+Options:
+(A) Helga
+(B) Jamie
+(C) Ophelia
+(D) Karl
+(E) Rodrigo
+
+[Answer]
+(B)
+
+[Question]
+Alice has a purple present, Bob has a brown present, Claire has a white present, Dave has a blue present, and Eve has a orange ball.
+As the event progresses, pairs of people swap gifts. First, Eve and Alice swap their gifts. Then, Bob and Dave swap their gifts. Then, Bob and Alice swap their gifts. Then, Claire and Eve swap their gifts. Finally, Alice and Eve swap their gifts. At the end of the event, Dave has the
+Options:
+(A) purple present
+(B) brown present
+(C) white present
+(D) blue present
+(E) orange ball
+
+[Answer]
+(B)
+
+[Question]
+Alice is playing cheerleader, Bob is playing goalkeeper, Claire is playing striker, Dave is playing left midfielder, and Eve is playing right winger.
+As the game progresses, pairs of players occasionally swap positions. First, Claire and Eve trade positions. Then, Claire and Dave trade positions. Then, Eve and Claire trade positions. Then, Claire and Alice trade positions. Finally, Bob and Dave trade positions. At the end of the match, Dave is playing
+Options:
+(A) cheerleader
+(B) goalkeeper
+(C) striker
+(D) left midfielder
+(E) right winger
+
+[Answer]
+(B)
+
+[Question]
+Alice has a orange ball, Bob has a black ball, Claire has a green ball, Dave has a brown ball, and Eve has a yellow ball.
+As the game progresses, pairs of players trade balls. First, Eve and Alice swap balls. Then, Claire and Bob swap balls. Then, Dave and Bob swap balls. Then, Alice and Eve swap balls. Finally, Dave and Claire swap balls. At the end of the game, Alice has the
+Options:
+(A) orange ball
+(B) black ball
+(C) green ball
+(D) brown ball
+(E) yellow ball
+
+[Answer]
+(A)
+
+[Question]
+Alice has a green present, Bob has a brown present, Claire has a white present, Dave has a black ball, and Eve has a orange ball.
+As the event progresses, pairs of people swap gifts. First, Dave and Claire swap their gifts. Then, Dave and Eve swap their gifts. Then, Alice and Claire swap their gifts. Then, Eve and Alice swap their gifts. Finally, Bob and Dave swap their gifts. At the end of the event, Eve has the
+Options:
+(A) green present
+(B) brown present
+(C) white present
+(D) black ball
+(E) orange ball
+
+[Answer]
+(D)
+
+[Question]
+Alice gets Ulysses, Bob gets Moby Dick, Claire gets The Pearl, Dave gets The Odyssey, and Eve gets The Fellowship of the Ring.
+As the semester proceeds, they start trading around the new books. First, Alice and Claire swap books. Then, Eve and Claire swap books. Then, Claire and Bob swap books. Then, Dave and Claire swap books. Finally, Bob and Dave swap books. At the end of the semester, Eve has
+Options:
+(A) Ulysses
+(B) Moby Dick
+(C) The Pearl
+(D) The Odyssey
+(E) The Fellowship of the Ring
+
+[Answer]
+(A)
+
+[Question]
+Alice gets The Great Gatsby, Bob gets Frankenstein, Claire gets Moby Dick, Dave gets The Fellowship of the Ring, and Eve gets Catch-22.
+As the semester proceeds, they start trading around the new books. First, Alice and Bob swap books. Then, Dave and Eve swap books. Then, Eve and Alice swap books. Then, Dave and Eve swap books. Finally, Claire and Dave swap books. At the end of the semester, Dave has
+Options:
+(A) The Great Gatsby
+(B) Frankenstein
+(C) Moby Dick
+(D) The Fellowship of the Ring
+(E) Catch-22
+
+[Answer]
+(C)
+

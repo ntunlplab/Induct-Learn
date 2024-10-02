@@ -1,0 +1,27 @@
+[Question]
+Take 1 step. Take 7 steps. Take 1 step.
+Options:
+- Yes
+- No
+
+[Answer]
+No
+
+[Question]
+Turn left. Take 5 steps. Turn around. Turn right.
+Options:
+- Yes
+- No
+
+[Answer]
+No
+
+[Question]
+Always face forward. Take 6 steps right. Take 1 step forward. Take 10 steps left. Take 8 steps forward. Take 9 steps backward. Take 4 steps right.
+Options:
+- Yes
+- No
+
+[Answer]
+Yes
+

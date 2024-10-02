@@ -1,0 +1,17 @@
+[Question]
+Q: not ( ( not not True ) ) is
+
+[Answer]
+False
+
+[Question]
+Q: True and False and not True and True is
+
+[Answer]
+False
+
+[Question]
+Q: not not ( not ( False ) ) is
+
+[Answer]
+True

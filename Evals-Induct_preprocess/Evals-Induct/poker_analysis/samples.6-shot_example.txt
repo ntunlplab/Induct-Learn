@@ -1,0 +1,36 @@
+[Question]
+Player 1 Hole: (Jd, Kh), Player 2 Hole: (Ts, Td), Community: 8d, 4c, Jc
+
+[Answer]
+1
+
+[Question]
+Player 1 Hole: (As, 2s), Player 2 Hole: (7d, Jc), Community: 2c, 4d, 9h, Ts
+
+[Answer]
+1
+
+[Question]
+Player 1 Hole: (5h, 8d), Player 2 Hole: (As, Kc), Player 3 Hole: (Ks, 7s), Player 4 Hole: (8c, Qs), Player 5 Hole: (6h, Ts), Player 6 Hole: (Qd, Tc), Community: 5d, 4c, 2c
+
+[Answer]
+1
+
+[Question]
+Player 1 Hole: (Qc, 5h), Player 2 Hole: (3h, 5c), Player 3 Hole: (7s, 6d), Player 4 Hole: (Js, As), Player 5 Hole: (Kc, 6s), Player 6 Hole: (Ad, 7c), Player 7 Hole: (2h, Qd), Player 8 Hole: (9d, 8c), Community: 8d, 9s, Kh, 4c, 2s
+
+[Answer]
+8
+
+[Question]
+Player 1 Hole: (4c, 5h), Player 2 Hole: (Tc, 3h), Player 3 Hole: (Ad, Qs), Player 4 Hole: (4d, 7s), Community: 8h, 7h, 8d, 2s, Jd
+
+[Answer]
+4
+
+[Question]
+Player 1 Hole: (2c, 5d), Player 2 Hole: (4h, 9s), Player 3 Hole: (5s, 3h), Player 4 Hole: (8s, 7d), Player 5 Hole: (Th, Jc), Player 6 Hole: (Ah, Qh), Player 7 Hole: (6d, 8c), Community: Ks, Kc, 4c, Ad, Js
+
+[Answer]
+6
+

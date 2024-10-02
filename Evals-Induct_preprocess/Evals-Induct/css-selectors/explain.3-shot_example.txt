@@ -1,0 +1,18 @@
+[Question]
+input:read-only | select input elements that have the word read-only as value
+
+[Answer]
+False
+
+[Question]
+div, p | select all <div> elements and all <p> elements
+
+[Answer]
+True
+
+[Question]
+.class_name_a.class_name_b | select all elements with class_name_a or class_name_b within it's class name
+
+[Answer]
+False
+

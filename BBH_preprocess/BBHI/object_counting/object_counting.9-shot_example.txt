@@ -1,0 +1,54 @@
+[Question]
+I have a lettuce head, two yams, a cabbage, a stalk of celery, three heads of broccoli, a garlic, an onion, a carrot, a cauliflower, and a potato.
+
+[Answer]
+13
+
+[Question]
+I have a cauliflower, a stalk of celery, a cabbage, and a garlic.
+
+[Answer]
+4
+
+[Question]
+I have a car, and a toaster.
+
+[Answer]
+2
+
+[Question]
+I have two cows, a snail, a fish, a mouse, a snake, and a frog.
+
+[Answer]
+7
+
+[Question]
+I have four oranges, a peach, a plum, three apples, three grapes, two raspberries, a nectarine, a strawberry, a blackberry, and a banana.
+
+[Answer]
+18
+
+[Question]
+I have a nectarine, two toasters, an orange, four peaches, an apple, a strawberry, and a plum.
+
+[Answer]
+9
+
+[Question]
+I have four nectarines, three bananas, a peach, a strawberry, a raspberry, a plum, an apple, and an orange.
+
+[Answer]
+13
+
+[Question]
+I have a mouse, a rabbit, a dog, a duck, and two goats.
+
+[Answer]
+6
+
+[Question]
+I have two blackberries, and a grape.
+
+[Answer]
+3
+

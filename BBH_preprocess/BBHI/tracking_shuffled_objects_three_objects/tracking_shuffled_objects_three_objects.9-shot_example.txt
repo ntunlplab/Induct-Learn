@@ -1,0 +1,99 @@
+[Question]
+Alice has a purple ball, Bob has a red ball, and Claire has a green ball.
+As the game progresses, pairs of players trade balls. First, Alice and Claire swap balls. Then, Alice and Bob swap balls. Finally, Claire and Alice swap balls. At the end of the game, Alice has the
+Options:
+(A) purple ball
+(B) red ball
+(C) green ball
+
+[Answer]
+(A)
+
+[Question]
+Alice gets Frankenstein, Bob gets The Great Gatsby, and Claire gets Ulysses.
+As the semester proceeds, they start trading around the new books. First, Alice and Bob swap books. Then, Claire and Bob swap books. Finally, Bob and Alice swap books. At the end of the semester, Claire has
+Options:
+(A) Frankenstein
+(B) The Great Gatsby
+(C) Ulysses
+
+[Answer]
+(A)
+
+[Question]
+Alice is dancing with Izzi, Bob is dancing with Melissa, and Claire is dancing with Lola.
+Throughout the song, the dancers often trade partners. First, Claire and Alice switch partners. Then, Bob and Claire switch partners. Finally, Alice and Bob switch partners. At the end of the dance, Alice is dancing with
+Options:
+(A) Izzi
+(B) Melissa
+(C) Lola
+
+[Answer]
+(A)
+
+[Question]
+Alice has a orange ball, Bob has a black ball, and Claire has a green present.
+As the event progresses, pairs of people swap gifts. First, Claire and Bob swap their gifts. Then, Bob and Alice swap their gifts. Finally, Bob and Claire swap their gifts. At the end of the event, Bob has the
+Options:
+(A) orange ball
+(B) black ball
+(C) green present
+
+[Answer]
+(B)
+
+[Question]
+Alice has a pink ball, Bob has a brown ball, and Claire has a orange ball.
+As the game progresses, pairs of players trade balls. First, Claire and Alice swap balls. Then, Alice and Bob swap balls. Finally, Bob and Claire swap balls. At the end of the game, Claire has the
+Options:
+(A) pink ball
+(B) brown ball
+(C) orange ball
+
+[Answer]
+(C)
+
+[Question]
+Alice is playing left midfielder, Bob is playing center midfielder, and Claire is playing benchwarmer.
+As the game progresses, pairs of players occasionally swap positions. First, Alice and Bob trade positions. Then, Alice and Claire trade positions. Finally, Alice and Bob trade positions. At the end of the match, Claire is playing
+Options:
+(A) left midfielder
+(B) center midfielder
+(C) benchwarmer
+
+[Answer]
+(B)
+
+[Question]
+Alice has a yellow ball, Bob has a blue ball, and Claire has a pink ball.
+As the game progresses, pairs of players trade balls. First, Claire and Alice swap balls. Then, Alice and Bob swap balls. Finally, Claire and Bob swap balls. At the end of the game, Alice has the
+Options:
+(A) yellow ball
+(B) blue ball
+(C) pink ball
+
+[Answer]
+(B)
+
+[Question]
+Alice has a yellow ball, Bob has a purple ball, and Claire has a blue ball.
+As the game progresses, pairs of players trade balls. First, Alice and Claire swap balls. Then, Bob and Claire swap balls. Finally, Alice and Claire swap balls. At the end of the game, Alice has the
+Options:
+(A) yellow ball
+(B) purple ball
+(C) blue ball
+
+[Answer]
+(B)
+
+[Question]
+Alice is playing goalkeeper, Bob is playing left winger, and Claire is playing right midfielder.
+As the game progresses, pairs of players occasionally swap positions. First, Claire and Alice trade positions. Then, Bob and Claire trade positions. Finally, Alice and Bob trade positions. At the end of the match, Claire is playing
+Options:
+(A) goalkeeper
+(B) left winger
+(C) right midfielder
+
+[Answer]
+(B)
+

@@ -1,0 +1,1 @@
+Given the result of a three-point test cross with each line of input containing a genotype and the corresponding number of offspring, find the allele in the middle. Output only the allele in lowercase without explanation.

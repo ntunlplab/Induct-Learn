@@ -1,0 +1,18 @@
+[Question]
+forty-eight divided by five hundred five plus seven thousand, eight hundred ninety-seven
+
+[Answer]
+[7897.0950]
+
+[Question]
+seventy plus five hundred thirteen plus six thousand, nine hundred eighty-five
+
+[Answer]
+[7568]
+
+[Question]
+sixty-two divided by eight hundred fifty-eight multiplied by nine thousand, two hundred ninety-one
+
+[Answer]
+[671.3776]
+

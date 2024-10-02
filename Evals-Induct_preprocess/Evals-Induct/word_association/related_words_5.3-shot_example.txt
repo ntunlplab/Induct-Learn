@@ -1,0 +1,18 @@
+[Question]
+Here is a list of the related words: [sound, part, representative, articulation, interpreter]. Here is a list of your options: [price, train, touch, light, phone, voice]. What is the secret word?
+
+[Answer]
+[voice]
+
+[Question]
+Here is a list of the related words: [solicit, homage, woo, romance, tribunal]. Here is a list of your options: [trial, shook, write, field, point, court]. What is the secret word?
+
+[Answer]
+[court]
+
+[Question]
+Here is a list of the related words: [line, stock, rake, descent, rip]. Here is a list of your options: [sweet, worry, index, check, glass, blood]. What is the secret word?
+
+[Answer]
+[blood]
+

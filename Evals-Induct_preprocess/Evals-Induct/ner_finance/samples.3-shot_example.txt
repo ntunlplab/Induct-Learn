@@ -1,0 +1,18 @@
+[Question]
+" CODE " is the Massachusetts Uniform Commercial Code .
+
+[Answer]
+[Massachusetts - LOCATION]
+
+[Question]
+( h ) Bank may debit any of Borrower ' s deposit accounts including Account Number _____________ for principal and interest payments or any amounts Borrower owes Bank .
+
+[Answer]
+[Bank - ORGANIZATION, Borrower - PERSON, Borrower - PERSON, Bank - ORGANIZATION]
+
+[Question]
+Just prior to dumping , the rail cars pass through a thaw shed which assists in unloading during freezing weather .
+
+[Answer]
+No entities found
+

@@ -1,0 +1,1 @@
+Calculate the runtime of the following reccurence relation, return the answer rounded to 2 decimal points if needed, and enclose it in square brackets like this [n^11]

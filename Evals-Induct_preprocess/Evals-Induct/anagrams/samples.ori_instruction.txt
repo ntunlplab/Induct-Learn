@@ -1,0 +1,1 @@
+Find the anagram of the input word (output is a single word)

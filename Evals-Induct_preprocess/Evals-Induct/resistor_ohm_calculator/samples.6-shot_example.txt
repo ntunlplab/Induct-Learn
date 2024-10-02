@@ -1,0 +1,36 @@
+[Question]
+red white silver blue
+
+[Answer]
+0.29
+
+[Question]
+brown yellow brown silver
+
+[Answer]
+140
+
+[Question]
+green blue white gold
+
+[Answer]
+56000000000
+
+[Question]
+green brown violet green
+
+[Answer]
+510000000
+
+[Question]
+yellow gray gold gold
+
+[Answer]
+4.800000000000001
+
+[Question]
+orange orange violet green
+
+[Answer]
+330000000
+

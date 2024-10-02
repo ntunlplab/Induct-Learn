@@ -1,0 +1,54 @@
+[Question]
+Here is a list of the related words: [way, cut, fashion, mode]. Here is a list of your options: [death, raise, visit, thing, rifle, style]. What is the secret word?
+
+[Answer]
+[style]
+
+[Question]
+Here is a list of the related words: [light, clear, white, fair]. Here is a list of your options: [worry, scene, river, study, drive, clean]. What is the secret word?
+
+[Answer]
+[clean]
+
+[Question]
+Here is a list of the related words: [line, stock, rake, descent]. Here is a list of your options: [check, month, state, force, unity, blood]. What is the secret word?
+
+[Answer]
+[blood]
+
+[Question]
+Here is a list of the related words: [sweat, pee, piss, diaphoresis]. Here is a list of your options: [light, price, depth, offer, value, water]. What is the secret word?
+
+[Answer]
+[water]
+
+[Question]
+Here is a list of the related words: [shop, rat, pot, weed]. Here is a list of your options: [theme, death, trial, dress, value, grass]. What is the secret word?
+
+[Answer]
+[grass]
+
+[Question]
+Here is a list of the related words: [effect, run, drive, power]. Here is a list of your options: [month, check, drawn, begin, sound, force]. What is the secret word?
+
+[Answer]
+[force]
+
+[Question]
+Here is a list of the related words: [grace, privilege, honor, prefer]. Here is a list of your options: [claim, scale, month, floor, sense, favor]. What is the secret word?
+
+[Answer]
+[favor]
+
+[Question]
+Here is a list of the related words: [back, work, address, top]. Here is a list of your options: [price, earth, state, touch, issue, cover]. What is the secret word?
+
+[Answer]
+[cover]
+
+[Question]
+Here is a list of the related words: [family, course, form, year]. Here is a list of your options: [wheel, wagon, field, power, paper, class]. What is the secret word?
+
+[Answer]
+[class]
+

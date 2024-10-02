@@ -1,0 +1,17 @@
+[Question]
+Input: [ { [
+
+[Answer]
+] } ]
+
+[Question]
+Input: < > ( ( [ [ ( { } ) [ < > ] ]
+
+[Answer]
+] ) )
+
+[Question]
+Input: < [ < [ { < [ ] < { } > > } ] > { { ( ) } { < [ < > ] > }
+
+[Answer]
+} ] >

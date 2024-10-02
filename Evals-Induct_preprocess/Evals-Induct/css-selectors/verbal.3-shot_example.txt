@@ -1,0 +1,18 @@
+[Question]
+select input elements with the readonly attribute specified
+
+[Answer]
+input:read-only
+
+[Question]
+select all <div> elements and all <p> elements
+
+[Answer]
+div, p
+
+[Question]
+select all elements with class_name_a and class_name_b within it's class name
+
+[Answer]
+.class_name_a.class_name_b
+

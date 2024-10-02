@@ -1,0 +1,18 @@
+[Question]
+Here is a list of the related words: [way, cut, fashion, mode]. Here is a list of your options: [death, raise, visit, thing, rifle, style]. What is the secret word?
+
+[Answer]
+[style]
+
+[Question]
+Here is a list of the related words: [light, clear, white, fair]. Here is a list of your options: [worry, scene, river, study, drive, clean]. What is the secret word?
+
+[Answer]
+[clean]
+
+[Question]
+Here is a list of the related words: [line, stock, rake, descent]. Here is a list of your options: [check, month, state, force, unity, blood]. What is the secret word?
+
+[Answer]
+[blood]
+

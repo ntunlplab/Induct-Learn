@@ -1,0 +1,42 @@
+[Question]
+On a branch, there are seven birds: a hawk, a raven, a hummingbird, a falcon, an owl, a quail, and a cardinal. The quail is to the left of the hummingbird. The raven is to the right of the hummingbird. The cardinal is the second from the left. The owl is to the left of the cardinal. The raven is the third from the right. The falcon is the rightmost.
+Options:
+(A) The hawk is the leftmost
+(B) The raven is the leftmost
+(C) The hummingbird is the leftmost
+(D) The falcon is the leftmost
+(E) The owl is the leftmost
+(F) The quail is the leftmost
+(G) The cardinal is the leftmost
+
+[Answer]
+(E)
+
+[Question]
+In an antique car show, there are seven vehicles: a limousine, a convertible, a station wagon, a minivan, a bus, a tractor, and a truck. The minivan is the oldest. The truck is older than the station wagon. The truck is newer than the limousine. The bus is newer than the convertible. The bus is older than the tractor. The limousine is newer than the tractor.
+Options:
+(A) The limousine is the second-oldest
+(B) The convertible is the second-oldest
+(C) The station wagon is the second-oldest
+(D) The minivan is the second-oldest
+(E) The bus is the second-oldest
+(F) The tractor is the second-oldest
+(G) The truck is the second-oldest
+
+[Answer]
+(B)
+
+[Question]
+In a golf tournament, there were seven golfers: Amy, Eve, Ada, Rob, Dan, Mel, and Joe. Joe finished third. Dan finished last. Eve finished first. Mel finished below Rob. Ada finished above Joe. Rob finished third-to-last.
+Options:
+(A) Amy finished last
+(B) Eve finished last
+(C) Ada finished last
+(D) Rob finished last
+(E) Dan finished last
+(F) Mel finished last
+(G) Joe finished last
+
+[Answer]
+(E)
+

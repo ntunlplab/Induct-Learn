@@ -1,0 +1,18 @@
+[Question]
+T(n) = 973009408T(n/9) + O(n^20)
+
+[Answer]
+[n^20]
+
+[Question]
+T(n) = 79066374T(n/2) + O(n^22)
+
+[Answer]
+[n^26.24]
+
+[Question]
+T(n) = 103448786T(n/6) + O(n^23)
+
+[Answer]
+[n^23]
+
