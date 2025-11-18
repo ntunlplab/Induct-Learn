@@ -102,7 +102,25 @@ Evals-Induct
 Our code is licensed under the MIT License.
 Please pay attention to any changes in the licenses of the original datasets (BBH and openai/evals).
 
+# Citation
 
+```
+@inproceedings{chen-etal-2024-induct,
+    title = "Induct-Learn: Short Phrase Prompting with Instruction Induction",
+    author = "Chen, Po-Chun  and
+      Wei, Sheng-Lun  and
+      Huang, Hen-Hsen  and
+      Chen, Hsin-Hsi",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.297/",
+    doi = "10.18653/v1/2024.emnlp-main.297",
+    pages = "5204--5231"
+}
+```
 
 
 
